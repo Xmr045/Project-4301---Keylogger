@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1526786787 source:e:\codefiles\c++ files\newboston\decryption\main.cpp
+	<iostream>
+	<fstream>
+	"Base64.h"
+	<string>
+	<vector>
+
+1526786817 e:\codefiles\c++ files\newboston\decryption\base64.h
+	<vector>
+	<string>
+
