@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1526784793 source:e:\codefiles\c++ files\newboston\keystrokeslogger\main.cpp
+	<iostream>
+	<windows.h>
+	"keys.h"
+	"Helper.h"
+	"Base64.h"
+	"appdata.h"
+	"response.h"
+	"maildocument.h"
+	"hooking.h"
+
+1526784793 e:\codefiles\c++ files\newboston\keystrokeslogger\keys.h
+	<map>
+	<string>
+
+1526785489 e:\codefiles\c++ files\newboston\keystrokeslogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1526785489 e:\codefiles\c++ files\newboston\keystrokeslogger\base64.h
+	<vector>
+	<string>
+
+1526784793 e:\codefiles\c++ files\newboston\keystrokeslogger\appdata.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1526785489 e:\codefiles\c++ files\newboston\keystrokeslogger\response.h
+	<thread>
+	<chrono>
+
+1526785515 e:\codefiles\c++ files\newboston\keystrokeslogger\maildocument.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"appdata.h"
+	"response.h"
+	"Helper.h"
+
+1526785489 e:\codefiles\c++ files\newboston\keystrokeslogger\hooking.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"keys.h"
+	"response.h"
+	"maildocument.h"
+
